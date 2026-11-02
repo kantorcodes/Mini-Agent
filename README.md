@@ -211,7 +211,7 @@ mini-agent --workspace /path/to/your/project
 
 ## ACP & Zed Editor Integration(optional)
 
-Mini Agent supports the [Agent Communication Protocol (ACP)](https://github.com/modelcontextprotocol/protocol) for integration with code editors like Zed.
+Mini Agent supports the [Agent Client Protocol (ACP)](https://agentclientprotocol.com/) for integration with code editors like Zed.
 
 **Setup in Zed Editor:**
 
